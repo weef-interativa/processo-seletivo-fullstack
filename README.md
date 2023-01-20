@@ -29,7 +29,6 @@ E-mail
 Telefone
 Imagem
 ```
-4.
 
 ### 💼 Stack sugerida
 
